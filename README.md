@@ -14,7 +14,6 @@ setelah itu buka web yng sedah koneksi ke database myphpAdmin
 
 setelah itu dowload yang diatas jadiin satu file biar mudah untuk dijalankan misalnya nama filenya : poliklinikbk
 
--
 
 # Bagian Pasian
 
@@ -34,7 +33,6 @@ Nama Lengkap
 
 Setelah itu masuk ke pasian dan masukan Nomer RM
 
--
 
 # Bagian Dokter
 
@@ -50,7 +48,6 @@ Riwayat Pasien
 
 Jadwal Dokter
 
--
 
 # Bagian Admin
 
