@@ -1,6 +1,9 @@
 # Poliklinik-Bimbingan-Karir-WD08-Sistem-temu-Janji-Pasien-UDINUS
 Tugas Sistem temu Janji Pasien UDINUS Polikinik 
 
+- Nama: Luthfi Adli
+- Nim: A11.2021.13823
+- Kelp: WD08
 
 sebelum memulai proyeknya kita buka http://localhost/phpmyadmin/index.php?lang=id
 
